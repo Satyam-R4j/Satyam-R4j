@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam-r4j" alt="satyam-r4j" /></a> </p>
 
-- 🌱 I’m currently learning **MERN frameworks**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Satyam-R4j?tab=repositories](https://github.com/Satyam-R4j?tab=repositories)
 
