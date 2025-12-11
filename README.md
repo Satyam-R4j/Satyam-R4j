@@ -57,8 +57,7 @@ A quick snapshot of the technologies I work with — from system-level to full-s
 
 ---
 
-# 📊 GitHub Stats  
-> *Clean. Minimal. Developer-centric.*
+# 📊 GitHub Stats
 
 <div align="center">
 
