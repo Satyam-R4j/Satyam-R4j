@@ -73,7 +73,6 @@ A quick snapshot of the technologies I work with — from system-level to full-s
 
 # 🏆 GitHub Trophies 
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Satyam-R4j&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+<div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
 </div>
 
